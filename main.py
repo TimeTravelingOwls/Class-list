@@ -1,4 +1,5 @@
 from pirates import *
+from random import randint
 
 
 for capn in Pirate.instances:
